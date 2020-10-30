@@ -1,0 +1,36 @@
+2:Co-ordinates x:600 :y:301
+2:Co-ordinates x_truth:600 :y_truth:301
+Keypoints1:3744 :Keypoints2:4055
+3:Co-ordinates x:600 :y:302
+3:Co-ordinates x_truth:600 :y_truth:302
+Keypoints1:4055 :Keypoints2:4079
+4:Co-ordinates x:600 :y:303
+4:Co-ordinates x_truth:600 :y_truth:303
+Keypoints1:4079 :Keypoints2:4046
+5:Co-ordinates x:600 :y:304
+5:Co-ordinates x_truth:600 :y_truth:304
+Keypoints1:4046 :Keypoints2:4078
+6:Co-ordinates x:600 :y:305
+6:Co-ordinates x_truth:600 :y_truth:305
+Keypoints1:4078 :Keypoints2:4026
+7:Co-ordinates x:600 :y:306
+7:Co-ordinates x_truth:600 :y_truth:306
+Keypoints1:4026 :Keypoints2:4136
+8:Co-ordinates x:600 :y:307
+8:Co-ordinates x_truth:600 :y_truth:306
+Keypoints1:4136 :Keypoints2:3853
+9:Co-ordinates x:600 :y:307
+9:Co-ordinates x_truth:600 :y_truth:307
+Keypoints1:3853 :Keypoints2:3654
+10:Co-ordinates x:600 :y:308
+10:Co-ordinates x_truth:600 :y_truth:308
+Keypoints1:3654 :Keypoints2:3418
+11:Co-ordinates x:600 :y:309
+11:Co-ordinates x_truth:600 :y_truth:309
+Keypoints1:3418 :Keypoints2:3319
+12:Co-ordinates x:600 :y:310
+12:Co-ordinates x_truth:600 :y_truth:310
+Keypoints1:3319 :Keypoints2:3198
+13:Co-ordinates x:600 :y:311
+13:Co-ordinates x_truth:600 :y_truth:311
+Keypoints1:3198 :Keypoints2:3115
