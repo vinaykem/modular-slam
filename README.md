@@ -1,8 +1,12 @@
 # modular-slam
 vo.cpp - Contains odometry code.
-GroundTruth.txt, Rt.txt - Ground truth and calculated pose information for factor graph optimization
-Rt_Corrected.txt - Factor graph optimized poses
 
-Although factor graph optimization is performed separately, the text files are only included for program execution.
-Compile: g++ -std=c++11 vo.cpp matrix.cpp matrix.h `pkg-config --libs --cflags opencv` -o vo
-Execute: ./vo
+Rt_Corrected.txt - Factor graph optimized poses. (Although factor graph optimization is performed separately, the text files are only included for program execution.)
+Before execution, make sure to change dataset filenames in vo.cpp(Line 22, 151, 152)
+
+Steps to execute:
+1. Checkout the main branch
+2. mkdir build
+3. cmake ..
+4. make
+5. ./vo
