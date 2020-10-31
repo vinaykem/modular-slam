@@ -1,5 +1,5 @@
 # modular-slam
-vo.cpp - Contains odometry code
+vo.cpp - Contains odometry code.
 GroundTruth.txt, Rt.txt - Ground truth and calculated pose information for factor graph optimization
 Rt_Corrected.txt - Factor graph optimized poses
 
